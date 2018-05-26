@@ -5,12 +5,12 @@
   ],
   "type": "Profile",
   "id": "https://www.blockcerts.org/samples/2.0/issuer-testnet.json",
-  "name": "University of Learning",
+  "name": "UTP",
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:msBCHdwaQ7N2ypBYupkp6uNxtr9Pg76imj",
+      "id": "ecdsa-koblitz-pubkey:miquLL49TMta5qCnQQPbUsc47ZPscfhvb2",
       "created": "2017-06-29T14:48:03.814936+00:00"
     }
   ],
